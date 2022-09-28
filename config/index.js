@@ -62,13 +62,13 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "宝宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "o7JEX6IvwZw7HJxaAM1EYXpLcRzE",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "D9R4TXfIDjheSzMZZebnoi4m_DDGf2Vpgm2on0KtZXA",
       // 所在省份
       province: "安徽",
       // 所在城市
-      city: "巢湖",
+      city: "合肥",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
